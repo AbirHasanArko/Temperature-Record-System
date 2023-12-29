@@ -1,7 +1,8 @@
-#include"temperature_info.h"
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
+#include"temperature_info.h"
 #include"temperature_data.h"
 #include"file_io.h"
 
