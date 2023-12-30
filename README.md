@@ -1,5 +1,5 @@
 # Temperature-Record-System
-Assignment issued by Department of Computer Science and Engineering, Batch 2k22, Term-1 Year-1, Khulna University of Engineering &amp; Technology, Khulna, Bangladesh.
+Assignment issued for batch 2k22 1st year 1st term by the Department of Computer Science and Engineering, Khulna University of Engineering &amp; Technology, Khulna.
 
 This ***C*** program has the following features:
 * Add a new city and record its temperatures for a period of 12 months.
